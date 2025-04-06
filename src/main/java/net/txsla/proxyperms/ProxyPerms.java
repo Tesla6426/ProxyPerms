@@ -18,5 +18,10 @@ public class ProxyPerms {
 
     @Subscribe
     public void onProxyInitialization(ProxyInitializeEvent event) {
+
+
+
+
+
     }
 }
